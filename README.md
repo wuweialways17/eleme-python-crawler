@@ -5,6 +5,6 @@
 
 源码已经上传，以下是这个问题的解决过程(手写有点乱见谅！）：
 
-![image](https://github.com/wuweialways17/eleme-python-crawler/blob/master/image/e'eIMG_5851.jpg)
-
 ![image](https://github.com/wuweialways17/eleme-python-crawler/blob/master/image/%E6%8D%953123.PNG)
+
+![image](https://github.com/wuweialways17/eleme-python-crawler/blob/master/image/e'eIMG_5851.jpg)
